@@ -1,2 +1,5 @@
-# Zelda-Remake
- Unity 2D game tutorial
+# Zelda Remake
+ Files for the Unity 2D game tutorial I'm following
+ 
+ Youtube Link:
+ https://www.youtube.com/watch?v=P98iXcpN9YQ
