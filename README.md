@@ -3,6 +3,8 @@
  
 # Todo
 - Signs and dialog
+- Attack animations
+- Hitboxes
  
 # Snapshot
  ![Progress so far](https://github.com/apaaris/Zelda-Remake/blob/main/Update.png)
